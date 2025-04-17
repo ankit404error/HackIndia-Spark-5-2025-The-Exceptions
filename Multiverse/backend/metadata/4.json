@@ -1,0 +1,19 @@
+{
+  "name": "NFTVerse #{id}",
+  "description": "Unique NFT from MintVerse collection",
+  "attributes": [
+    {
+      "trait_type": "background",
+      "value": "1357584"
+    },
+    {
+      "trait_type": "body",
+      "value": "cropped-1920-1200-710649"
+    },
+    {
+      "trait_type": "accessories",
+      "value": "stretched-1920-1200-1222332"
+    }
+  ],
+  "image": "file://output\\4.png"
+}

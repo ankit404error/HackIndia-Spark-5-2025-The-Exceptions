@@ -1,0 +1,22 @@
+{
+  "name": "nft-generator",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "generate": "node index.js",
+    "upload": "node upload.js",
+    "clean": "rm -rf output metadata upload-results.json",
+    "full": "npm run generate && npm run upload"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "canvas": "^2.11.2",
+    "dotenv": "^16.0.3",
+    "nft.storage": "^7.0.0"
+  },
+  "devDependencies": {
+    "eslint": "^8.56.0"
+  }
+}

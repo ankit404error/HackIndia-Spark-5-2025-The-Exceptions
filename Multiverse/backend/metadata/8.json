@@ -1,0 +1,19 @@
+{
+  "name": "NFTVerse #{id}",
+  "description": "Unique NFT from MintVerse collection",
+  "attributes": [
+    {
+      "trait_type": "background",
+      "value": "936108"
+    },
+    {
+      "trait_type": "body",
+      "value": "cropped-1920-1200-710649"
+    },
+    {
+      "trait_type": "accessories",
+      "value": "sharingan rinnegan obito tobi uchiha mask hd wallpaper 1920x1080"
+    }
+  ],
+  "image": "file://output\\8.png"
+}
