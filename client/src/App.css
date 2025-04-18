@@ -1,0 +1,24 @@
+.App {
+  font-family: sans-serif;
+  text-align: center;
+  padding: 2rem;
+}
+
+.generator input {
+  padding: 10px;
+  width: 300px;
+  margin-right: 10px;
+}
+
+.generator button, .mint-button {
+  padding: 10px 20px;
+  margin-top: 10px;
+  font-size: 16px;
+  cursor: pointer;
+}
+
+.generator img {
+  margin-top: 20px;
+  width: 400px;
+  border-radius: 10px;
+}

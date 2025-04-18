@@ -95,4 +95,3 @@ const nft = await NFTVerse.deploy("MintVerse", "MVNFT", owner.address);
 ---
 
 ##
-
