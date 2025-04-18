@@ -36,8 +36,8 @@ MintVerse/
 ### 1. Clone the Repo
 
 ```bash
-git clone https://github.com/YOUR_USERNAME/mintverse.git
-cd mintverse
+git clone https://github.com/ankit404error/HackIndia-Spark-5-2025-The-Exceptions.git
+cd HackIndia-Spark-5-2025-The-Exceptions
 ```
 
 ### 2. Install Dependencies
